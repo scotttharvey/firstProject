@@ -1,0 +1,17 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: teal;
+}
+
+.navBar{
+  background-color: red;
+  height:8em;
+  width:100%
+
+}
+.middleBar{
+  background-color: grey;
+  height:8em;
+  width:100%
+}
